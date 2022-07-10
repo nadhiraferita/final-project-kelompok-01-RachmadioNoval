@@ -13,6 +13,6 @@ Problem: regression
 
 Final Model: Random Forest Regressor
 
-Link Repositori: <link menuju repositori ini>
+Link Repositori: https://github.com/nadhiraferita/final-project-kelompok-01-RachmadioNoval.git
 
 Link PPT: https://bit.ly/3Rl0ShF
