@@ -15,4 +15,4 @@ Final Model: Random Forest Regressor
 
 Link Repositori: <link menuju repositori ini>
 
-Link PPT: https://docs.google.com/presentation/d/1cQzo5-iiukpM15YnQ181fcjEXaGUUGnhiGG4PW9V95Y/edit?usp=sharing
+Link PPT: https://bit.ly/3Rl0ShF
